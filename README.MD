@@ -8,4 +8,5 @@ To run this project, you simply have to click on the create add bouncy ball butt
 I'd like to add a function that can create each ball unique. For example, users can click on the ball they want to edit.
 
 ## License
-MIT Professinal Certificate in Coding: Full Stack Development with MERN
+MIT Professinal Certificate in Coding: Full Stack Development with MERN (2022)
+<sub>online course</sub>
